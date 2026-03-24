@@ -1,0 +1,184 @@
+Pregunta 1
+Posibles preguntas	Respuestas	Valor del rasgo 1
+Es tu primer día de clase. ¡Qué emoción! Por supuesto, quieres hacer nuevos amigos. ¿Cómo lo haces?	Me presento al primero que pase.	1
+Ya vendrá alguien a romper el hielo.	0
+¡Hay un alumno nuevo! ¿Qué haces?	Me presento y le ofrezco mi ayuda.	1
+Lo observo de lejos, a ver cómo es.	0
+Pregunta 2
+Posibles preguntas	Respuestas	Valor del rasgo 2
+¡Oh, no! ¡Has perdido el monedero! ¿Cuál es tu primera reacción?	Intento recordar dónde lo vi por última vez.	1
+¡Me pongo a buscar hasta debajo de las piedras!	0
+Ves que dos amigos tuyos se están
+peleando. ¿Qué haces?	Les pregunto el motivo e intento que dialoguen.	1
+¡Intento separarlos antes de que se hagan daño!	0
+Pregunta 3
+Posibles preguntas	Respuestas	Valor del rasgo 3
+¡Vaya! Ves que en tu panadería de siempre venden un bollito nuevo.	¿Cuál? ¿El que me acabo de comer?	1
+Me llevo el de siempre, por algo es mi favorito.	0
+Todos te hablan maravillas de un libro, pero es un tocho que no veas.	Si tanto hablan de él, será por algo. ¡Me lo leo!	1
+Quita, quita. Los ladrillos, para hacer casas.	0
+Pregunta 4
+Posibles preguntas	Respuestas	Valor del rasgo 4
+De camino a clase, ves que te has dejado el estuche en casa. ¿Qué haces?	Vuelvo a buscarlo. ¿Qué voy a hacer, si no?	1
+Ya le pediré a mi compi lo que me haga falta.	0
+Llevas dos horas subiendo una montaña, pero la cima aún se ve lejos.	No tiras la toalla y sigues adelante.	1
+Me vuelvo, que ya he caminado bastante.	0
+Pregunta 5
+Posibles preguntas	Respuestas	Valor del rasgo 5
+Aunque tú prefieres saltar a la comba en el recreo, todos quieren jugar al pilla-pilla...	Pues juego al pilla-pilla ¡y a pasarlo bien juntos!	1
+Me las arreglo para hacerles cambiar de opinión.	0
+¡Por fin es la hora de comer! Te ruge la tripa y el olorcillo de la comida ya te hace salivar.	Aún así, me espero a que estén todos servidos.	1
+Yo voy empezando no vaya a ser que se enfríe...	0
+Pregunta 6
+Al combinar los valores de los 5 rasgos de personalidad obtenidos de las respuestas anteriores se determina un tipo de personalidad de 5 posibles. La sexta pregunta del test dependerá entonces de la personalidad resultante y su respuesta determinará el Pokémon que mejor representa al jugador.
+
+Nota: "X" significa que no importa el valor del rasgo (puede ser 0 o 1).
+
+Rasgo 1	Rasgo 2	Rasgo 3	Rasgo 4	Rasgo 5	Personalidad
+0	0	0	0	X	Personalidad 2
+0	0	0	1	1	Personalidad 3
+0	0	1	0	0	Personalidad 1
+0	0	1	X	1	Personalidad 2
+0	0	X	1	0	Personalidad 1
+0	1	0	X	0	Personalidad 2
+0	1	0	X	1	Personalidad 2
+0	1	1	0	1	Personalidad 5
+0	1	1	1	1	Personalidad 5
+0	1	1	X	0	Personalidad 3
+1	0	0	0	X	Personalidad 4
+1	0	0	1	X	Personalidad 4
+1	0	1	0	X	Personalidad 1
+1	0	1	1	0	Personalidad 3
+1	0	1	1	1	Personalidad 3
+1	1	0	0	0	Personalidad 1
+1	1	0	X	1	Personalidad 5
+1	1	1	0	0	Personalidad 4
+1	1	1	X	1	Personalidad 5
+1	1	X	1	0	Personalidad 4
+Personalidad 1
+Pregunta	Respuestas	Pokémon inicial
+¡Qué bien, te han llevado a la playa! ¡A descansar y disfrutar de la brisa! ¿Qué vista encuentras más relajante?	El agua reluciente del mar.	Piplup
+
+El cielo que se pierde en el infinito.	Froakie
+
+La arena acariciada por las olas.	Chimchar
+
+La hierba que crece entre las dunas.	Treecko
+
+Personalidad 2
+Pregunta	Respuestas	Pokémon inicial
+¿Cuál es tu estación favorita?	La primavera, por las flores.	Chikorita
+
+El verano, por la playa y la piscina.	Bulbasaur
+ 
+El otoño, para pasear entre la hojarasca.	Turtwig
+
+El invierno, para jugar con la nieve.	Totodile
+
+Personalidad 3
+Pregunta	Respuestas	Pokémon inicial
+Un mago te dice que puede transformarte
+durante un día en el animal que quieras.	¡En una criaturita chiquitina y supermona!	Pikachu
+
+¡En un reptil de elegancia hipnótica!	Charmander
+
+¡En un pájaro que vuele muy alto!	Torchic
+
+En un animal salvaje en plena naturaleza.	Riolu
+
+Personalidad 4
+Pregunta	Respuestas	Pokémon inicial
+¡Es hora de merendar!
+Como hoy te has portado muy bien, puedes tomarte un pastelito.
+¿Cuál prefieres?	Tarta de manzana: todo un clásico.	Oshawott
+
+Un pastel de chocolate bien denso.	Fennekin
+
+Un tiramisú con un toque amargo.	Snivy
+
+Una tarta de queso bien cremosa.	Chespin
+
+Personalidad 5
+Pregunta	Respuestas	Pokémon inicial
+Hoy quieres hacer un dibujo del mar.
+Tienes una hoja en blanco y colores.
+¿De qué color lo pintas?	Turquesa, como los arrecifes de coral.	Cyndaquil
+
+Azul claro, como un mar puro y cristalino.	Squirtle
+
+Anaranjado, como en una puesta de sol.	Tepig
+
+Azul oscuro, como en alta mar.	Mudkip
+
+Pregunta 7
+La séptima pregunta será siempre la misma y su respuesta determinará al Pokémon acompañante. Sin embargo, solo se presentarán cuatro opciones de respuesta que variarán según el tipo al que pertenezca el Pokémon destinado a representar al jugador. Adicionalmente, los tipos agua, planta y fuego presentan dos variantes de posibles respuestas y el juego determina aleatoriamente cual presentar.
+
+Pregunta
+¡Hoy nos vamos de fiesta! ¿Qué música te pide el cuerpo?
+Opciones de respuesta	Pokémon acompañante
+Si el Pokémon inicial es tipo lucha
+Algo sofisticado, como una sesión de jazz.	 Froakie
+Algo que sea fácil de cantar y bailar.	 Fennekin
+Ritmo de samba, como en carnaval.	 Chespin
+¡Rock del bueno y a meterle caña!	 Pikachu
+Si el Pokémon inicial es tipo eléctrico
+Algo sofisticado, como una sesión de jazz.	 Froakie
+Algo que sea fácil de cantar y bailar.	 Fennekin
+Ritmo de samba, como en carnaval.	 Chespin
+Algo de tecno, que siento el ritmo en el cuerpo.	 Riolu
+Si el Pokémon inicial es tipo agua (variante 1)
+¡Saltar y desgañitarme a ritmo de punk!	 Chimchar
+Algo de tecno, que siento el ritmo en el cuerpo.	 Riolu
+Música folk. En la sencillez está el gusto.	 Torchic
+Algo que sea fácil de cantar y bailar.	 Fennekin
+Si el Pokémon inicial es tipo agua (variante 2)
+Una marcha con ritmo marcado.	 Charmander
+Música clásica para relajarme.	 Cyndaquil
+Canciones de dibujos animados para divertirme.	 Tepig
+¡Rock del bueno y a meterle caña!	 Pikachu
+Si el Pokémon inicial es tipo fuego (variante 1)
+Algo de tecno, que siento el ritmo en el cuerpo.	 Riolu
+Rapear con mis colegas, que el rap es lo que pega.	 Turtwig
+Montar un coro con mis amigos.	 Chikorita
+Ritmo de samba, como en carnaval.	 Chespin
+Si el Pokémon inicial es tipo fuego (variante 2)
+Un tango que desborde pasión.	 Snivy
+Marcarme un solo, que estoy inspirado.	 Treecko
+¡Grandes temazos de ayer y de siempre!	 Bulbasaur
+¡Rock del bueno y a meterle caña!	 Pikachu
+Si el Pokémon inicial es tipo planta (variante 1)
+Algo sofisticado, como una sesión de jazz.	 Froakie
+¡Rock del bueno y a meterle caña!	 Pikachu
+Música pop, alegre y desenfadada.	 Piplup
+Una ópera que me haga entrar en escena.	 Totodile
+Si el Pokémon inicial es tipo planta (variante 2)
+Bailar un vals y dejarme llevar.	 Squirtle
+Reggae para olvidar los malos rollos.	 Mudkip
+Algo de tecno, que siento el ritmo en el cuerpo.	 Riolu
+Una ópera que me haga entrar en escena.	 Totodile
+Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia.
+Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución
+
+
+urtwig	«Eres la viva encarnación de la timidez. Te preocupa mucho lo que piensen los demás. Por otro lado, se nota que tienes una extraordinaria capacidad de entrega. Eres una persona muy considerada, como... ¡Turtwig!»	
+Treecko	«Eres lo que se llama un lobo solitario. A veces, la gente no se atreve a acercarse a ti. Cuando tomas una decisión, es en firme y asumes hasta las últimas consecuencias. Tienes un carácter resuelto, igual que... ¡Treecko!»	
+Pikachu	«Lo tuyo es el trabajo en grupo. Valoras la amistad y eso te granjea muchas simpatías. No sabes lo que son la avaricia o el egoísmo, y todos aprecian tu disposición para ayudar. Eres tan popular como... ¡Pikachu!»	
+Froakie	«Sabes muy bien lo que quieres, y eso a veces te crea conflictos con otros. Pero esa misma fidelidad a tus principios demuestra que se puede confiar en ti. Tienes un carácter honesto como... ¡Froakie!»	
+Bulbasaur	«Tu lema es "Cuantos más, mejor". Te gusta encajar y estar en contacto con los tuyos. Posees una capacidad especial para captar los sentimientos ajenos. Tienes la sensibilidad a flor de piel como... ¡Bulbasaur!»	
+Totodile	«Posees un carácter firme y decidido. Tú has nacido para liderar. Además, tu energía y entusiasmo se contagian a todos los que te rodean. Tienes el carisma de... ¡Totodile!»	
+Chikorita	«Te gusta ir a tu aire y hacer las cosas sin aspavientos ni llamar la atención. Cuando no estás, se nota tu ausencia. Haces favores sin pedir nada a cambio. Posees la misma discreción que... ¡Chikorita!»	
+Riolu	«Ante un imprevisto, no pierdes la calma sino que lo afrontas analizándolo con sangre fría. Eres capaz de ver más allá de lo obvio gracias a una perspicacia incomparable. Eres una persona racional y digna de confianza como... ¡Riolu!»	
+Cyndaquil	«Calculas con cuidado tus acciones y procuras evitar esfuerzos inútiles. Tu prudencia y madurez te granjean simpatías y multitud de admiradores. Tienes el saber hacer de... ¡Cyndaquil!»	
+Tepig	«Sabes leer entre líneas sentimientos y situaciones, y te creces ante la adversidad. Tu magnetismo natural hace que tengas muchos amigos. Tu simpatía recuerda a... ¡Tepig!»	
+Oshawott	«Eres un torbellino imparable y eso agota a más de uno. Lo que está claro es que sabes sacar el máximo partido a tu tiempo. Tienes un carácter inquieto como... ¡Oshawott!»	
+Fennekin	«Te gusta ir a tu aire, pero, cuando hay que actuar, no dudas ni un instante. Sabes transmitir valor a los demás sin hacerte notar. Eres una persona trabajadora como... ¡Fennekin!»	
+Piplup	«¡Tú no sabes lo que es el miedo! Aunque, al mismo tiempo, te rindes con facilidad. Quieres experimentar y probar cosas nuevas en busca de lo que realmente te gusta. Eres audaz como... ¡Piplup!»	
+Charmander	«Al pan, pan y al vino, vino. Tienes iniciativa y valor para hacer y decir lo que crees correcto. Para ti no hay nada imposible y eso genera confianza en los demás. Tienes tanto valor como... ¡Charmander!»	
+Torchic	«Eres una persona agradable y un poquito nerviosa. Tu bondad natural, no obstante, hace que todos se sientan muy a gusto contigo. Tu carácter honesto recuerda a... ¡Torchic!»	
+Chimchar	«Tienes muy claro que una cosa eres tú y otra cosa son los demás. La gente envidia esa actitud tan valiente y que tengas las ideas claras. Haces sentir bien a todos, igual que... ¡Chimchar!»	
+Squirtle	«Eres alegre y posees un gran corazón. Vives sin complicaciones y eres feliz así. Haces gala de una gran madurez para tu edad. Tu felicidad se contagia a quienes te rodean. Tu carácter sosegado recuerda a... ¡Squirtle!»	
+Snivy	«Eres un ejemplo para todos. Siempre te sales con la tuya gracias a tus dotes de persuasión. Todo lo haces con estilo y eres una fuente inagotable de inspiración allí donde vas. Eres tan guay como... ¡Snivy!»	
+Chespin	«Te gusta pensar dos veces lo que vas a hacer, cosa que algunos confunden con indecisión. Tu buena disposición atrae a los demás. Para ti el éxito es algo natural. Haces sentir bien a todos, igual que... ¡Chespin!»	
+Mudkip	«De nada sirve comerse la cabeza. Lo tuyo es disfrutar, y a eso no te gana nadie. Tu optimismo hace sonreír a todos. Sabes ver el lado positivo de todo. Tu actitud positiva recuerda a... ¡Mudkip!»
+Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia.
+Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución

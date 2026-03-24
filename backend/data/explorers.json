@@ -1,0 +1,1090 @@
+[
+    {
+        "id": 1,
+        "text": "Estás acabando un maratón, ¡pero el último tramo es agotador! ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Aguanto hasta el final!",
+                "points": {"Fuerte": 4, "Audaz": 2}
+            },
+            {
+                "text": "Dejo de correr",
+                "points": {"Rara": 4}
+            },
+            {
+                "text": "Busco un atajo",
+                "points": {"Alocada": 2, "Osada": 4}
+            }
+        ]				
+    },
+    {
+        "id": 2,
+        "text": "¿Podrías comprometerte a hacer diez flexiones por día?",
+        "options": [
+            {
+                "text": "Sí, ¡pan comido!",
+                "points": {"Agitada": 4, "Grosera": 2}
+            },
+            {
+                "text": "Sí, aunque me costará",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "¡¿Estamos locos?!",
+                "points": {"Rara": 4}
+            }
+        ]				
+    },
+    {
+        "id": 3,
+        "text": "¿Qué haces con tu paga?",
+        "options": [
+            {
+                "text": "La ahorro",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "¡Me la gasto!",
+                "points": {"Activa": 2, "Rara": 4}
+            },
+            {
+                "text": "Me gasto la mitad y ahorro el resto",
+                "points": {"Mansa": 2}
+            },
+            {
+                "text": "No tengo paga...",
+                "points": {"Huraña": 4}
+            }
+        ]					
+    },
+    {
+        "id": 4,
+        "text": "Tienes que mover una maleta pesada. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Cargo con ella",
+                "points": {"Fuerte": 4, "Audaz": 2}
+            },
+            {
+                "text": "Pido ayuda",
+                "points": {"Dócil": 2}
+            },
+            {
+                "text": "Que la lleve otro",
+                "points": {"Grosera": 2, "Osada": 4}
+            }
+        ]				
+    },
+    {
+        "id": 5,
+        "text": "Cuando no sabes algo, ¿eres capaz de reconocerlo?",
+        "options": [
+            {
+                "text": "Por supuesto",
+                "points": {"Dócil": 4, "Osada": 2}
+            },
+            {
+                "text": "No es fácil admitirlo",
+                "points": {"Miedosa": 4, "Huraña": 2}
+            }
+        ]			
+    },
+    {
+        "id": 6,
+        "text": "Estás paseando y de repente te llega un olor delicioso. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Intento adivinarlo",
+                "points": {"Dócil": 4}
+            },
+            {
+                "text": "¡Voy ipso facto a ver qué es!",
+                "points": {"Ingenua": 4, "Alocada": 2}
+            },
+            {
+                "text": "Pienso en el hambre que tengo...",
+                "points": {"Agitada": 4}
+            }
+        ]				
+    },
+    {
+        "id": 7,
+        "text": "Un adivino te augura un futuro nefasto. ¿Cómo reaccionas?",
+        "options": [
+            {
+                "text": "Me preocupo",
+                "points": {"Dócil": 4, "Miedosa": 2}
+            },
+            {
+                "text": "Paso del adivino",
+                "points": {"Alegre": 4, "Plácida": 2, "Osada": 2}
+            }
+        ]			
+    },
+    {
+        "id": 8,
+        "text": "Te enteras de un rumor que podría hacerte ganar mucho dinero. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Me lo guardo para mí",
+                "points": {"Miedosa": 2, "Osada": 4}
+            },
+            {
+                "text": "Se lo digo a mis amigos",
+                "points": {"Dócil": 4, "Alocada": 4}
+            },
+            {
+                "text": "Difundo otro rumor",
+                "points": {"Agitada": 4}
+            }
+        ]				
+    },
+    {
+        "id": 9,
+        "text": "¿Cómo inflas un globo?",
+        "options": [
+            {
+                "text": "¡Hasta el límite!",
+                "points": {"Audaz": 4, "Agitada": 4}
+            },
+            {
+                "text": "Grande, pero no mucho",
+                "points": {"Mansa": 2}
+            },
+            {
+                "text": "Paso... ¿Y si explota?",
+                "points": {"Dócil": 2, "Miedosa": 4}
+            }
+        ]				
+    },
+    {
+        "id": 10,
+        "text": "¿Das tu opinión siempre, incluso cuando es distinta a la de los demás?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Audaz": 4, "Osada": 2}
+            },
+            {
+                "text": "No",
+                "points": {"Miedosa": 2, "Huraña": 4}
+            },
+            {
+                "text": "Depende de la situación",
+                "points": {"Rara": 2, "Mansa": 2}
+            }
+        ]	
+    },
+    {
+        "id": 11,
+        "text": "Alguien te gusta un montón y se lo quieres decir. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Lo muestro haciéndole más caso",
+                "points": {"Alegre": 4, "Mansa": 2}
+            },
+            {
+                "text": "Evidente, le tomo un poco el pelo",
+                "points": {"Ingenua": 2, "Huraña": 4}
+            },
+            {
+                "text": "¡Lo grito a los cuatro vientos!",
+                "points": {"Audaz": 4, "Agitada": 4, "Osada": 2}
+            },
+            {
+                "text": "No se lo digo. ¡Qué vergüenza!",
+                "points": {"Miedosa": 2}
+            }
+        ]					
+    },
+    {
+        "id": 12,
+        "text": "Estás dando un paseo y de repente te llaman para hacerte una entrevista para la televisión. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Huyo! ¡Qué vergüenza!",
+                "points": {"Miedosa": 4}
+            },
+            {
+                "text": "Respondo a las preguntas",
+                "points": {"Audaz": 4, "Grosera": 4}
+            },
+            {
+                "text": "¡Yuju! ¡Estoy en la tele!",
+                "points": {"Ingenua": 4, "Osada": 2}
+            }
+        ]				
+    },
+    {
+        "id": 13,
+        "text": "¡Te da un arrebato de felicidad! ¿Te pegas un bailoteo?",
+        "options": [
+            {
+                "text": "¡Claro!",
+                "points": {"Alegre": 4, "Huraña": 2}
+            },
+            {
+                "text": "Paso...",
+                "points": {"Mansa": 2}
+            }
+        ]		
+	
+    },
+    {
+        "id": 14,
+        "text": "Ves llegar un desfile por la calle. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Me quedo y lo veo",
+                "points": {"Serena": 2}
+            },
+            {
+                "text": "Me uno al desfile",
+                "points": {"Alegre": 2, "Ingenua": 4}
+            },
+            {
+                "text": "Me marcho",
+                "points": {"Grosera": 4, "Huraña": 2}
+            }
+        ]				
+    },
+    {
+        "id": 15,
+        "text": "Un amigo te cuenta un chiste súper cursi. ¿Cómo reaccionas?",
+        "options": [
+            {
+                "text": "¡Me parto de risa!",
+                "points": {"Alegre": 4, "Ingenua": 2}
+            },
+            {
+                "text": "Lo dejo pasar...",
+                "points": {"Dócil": 2, "Agitada": 2}
+            },
+            {
+                "text": "Con un gesto lo digo todo",
+                "points": {"Audaz": 4}
+            }
+        ]				
+    },
+    {
+        "id": 16,
+        "text": "¿Puedes entablar fácilmente una conversación con gente que no conozcas?",
+        "options": [
+            {
+                "text": "¡Claro!",
+                "points": {"Alegre": 4, "Osada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Dócil": 2, "Miedosa": 2}
+            }
+        ]		
+    },
+    {
+        "id": 17,
+        "text": "¿Te sueles hacer daño?",
+        "options": [
+            {
+                "text": "Bueno...",
+                "points": {"Agitada": 4, "Alocada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Serena": 2}
+            }
+        ]		
+    },
+    {
+        "id": 18,
+        "text": "Ves una pelota en el suelo. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡La chuto!",
+                "points": {"Activa": 2, "Grosera": 2}
+            },
+            {
+                "text": "¡La lanzo!",
+                "points": {"Agitada": 4}
+            },
+            {
+                "text": "¡Me la quedo!",
+                "points": {"Huraña": 4}
+            }
+        ]				
+    },
+    {
+        "id": 19,
+        "text": "¿Te gustaría explorar la selva?",
+        "options": [
+            {
+                "text": "¡Me apunto!",
+                "points": {"Agitada": 4, "Ingenua": 2}
+            },
+            {
+                "text": "No me interesa",
+                "points": {"Miedosa": 2, "Rara": 4}
+            }
+        ]			
+    },
+    {
+        "id": 20,
+        "text": "Descubres un pasadizo secreto en un sótano. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Meterme",
+                "points": {"Audaz": 4, "Agitada": 4, "Activa": 4, "Alocada": 2}
+            },
+            {
+                "text": "Me alejo",
+                "points": {"Miedosa": 2}
+            }
+        ]			
+    },
+    {
+        "id": 21,
+        "text": "Un amigo tropieza y se cae estrepitosamente. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Ayudo a mi amigo",
+                "points": {"Audaz": 4, "Huraña": 2}
+            },
+            {
+                "text": "¡Me río! ¡Es divertidísimo!",
+                "points": {"Agitada": 4, "Ingenua": 4, "Alocada": 2}
+            }
+        ]			
+    },
+    {
+        "id": 22,
+        "text": "Estás soñando despierto... y un amigo te tira agua encima. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Me enfado!",
+                "points": {"Activa": 4}
+            },
+            {
+                "text": "Me pongo triste",
+                "points": {"Huraña": 4}
+            },
+            {
+                "text": "¡Yuju! ¡Pelea de agua!",
+                "points": {"Alegre": 4, "Agitada": 4, "Ingenua": 4}
+            }
+        ]			
+    },
+    {
+        "id": 23,
+        "text": "¿Alguna vez has querido comunicarte con extraterrestres?",
+        "options": [
+            {
+                "text": "¡Síii!",
+                "points": {"Ingenua": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Mansa": 2}
+            }
+        ]		
+    },
+    {
+        "id": 24,
+        "text": "¿Has molestado a algún un amigo mientras bromeabas por algo?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Agitada": 2, "Ingenua": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Serena": 4}
+            }
+        ]	
+    },
+    {
+        "id": 25,
+        "text": "¡Eh! ¡Mira!... ¡Hay alguien detrás de ti! ¿Te has girado para mirar?",
+        "options": [
+            {
+                "text": "¡Anda que menudo susto!",
+                "points": {"Miedosa": 4}
+            },
+            {
+                "text": "Lo reconozco, me has engañado",
+                "points": {"Dócil": 4}
+            },
+            {
+                "text": "Para nada, no me la has colado",
+                "points": {"Grosera": 4, "Huraña": 4}
+            },
+            {
+                "text": "¿Eh? ¿Qué?",
+                "points": {"Plácida": 4}
+            }
+        ]					
+    },
+    {
+        "id": 26,
+        "text": "El empleado de una tienda te ha caído bien, pero intenta venderte algo que no es lo que andas buscando. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Digo que no lo quiero",
+                "points": {"Audaz": 2, "Mansa": 2}
+            },
+            {
+                "text": "Le doy las gracias, pero no",
+                "points": {"Serena": 4, "Huraña": 2}
+            },
+            {
+                "text": "Cedo y lo compro",
+                "points": {"Miedosa": 2, "Alocada": 2}
+            }
+        ]			
+    },
+    {
+        "id": 27,
+        "text": "Te encuentras con alguien que hacía mucho tiempo que no veías. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Mantengo una conversación trivial",
+                "points": {"Serena": 2}
+            },
+            {
+                "text": "No digo nada",
+                "points": {"Rara": 2}
+            },
+            {
+                "text": "Busco una excusa para irme",
+                "points": {"Miedosa": 4}
+            }
+        ]				
+    },
+    {
+        "id": 28,
+        "text": "Oyes cómo alguien grita tu nombre, pero no hay nadie alrededor... ¿Quién habrá sido?",
+        "options": [
+            {
+                "text": "Serán imaginaciones mías",
+                "points": {"Plácida": 4}
+            },
+            {
+                "text": "Será algún bromista",
+                "points": {"Ingenua": 4, "Osada": 2}
+            },
+            {
+                "text": "¡Un fantasma!",
+                "points": {"Miedosa": 4}
+            }
+        ]		
+    },
+    {
+        "id": 29,
+        "text": "¿Sueles sacar conclusiones equivocadas?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Activa": 4, "Alocada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Dócil": 2, "Mansa": 2}
+            }
+        ]	
+    },
+    {
+        "id": 30,
+        "text": "¿Cambias mucho de canal al ver la televisión?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Activa": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Serena": 2}
+            }
+        ]	
+    },
+    {
+        "id": 31,
+        "text": "¡Te encuentras algo con una rebaja espectacular! ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Me lo compro ipso facto!",
+                "points": {"Activa": 4}
+            },
+            {
+                "text": "Pienso si de verdad me hace falta",
+                "points": {"Mansa": 2}
+            },
+            {
+                "text": "Pido una rebaja mayor",
+                "points": {"Osada": 4}
+            }
+        ]		
+		
+    },
+    {
+        "id": 32,
+        "text": "Estás guardando la merienda para ir de excursión y te entra el hambre. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Me como un poco",
+                "points": {"Activa": 4}
+            },
+            {
+                "text": "Me aguanto y lo guardo todo",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "¿Qué merienda? ¡Me la he zampado!",
+                "points": {"Alocada": 4}
+            }
+        ]			
+    },
+    {
+        "id": 33,
+        "text": "¿Eres rebelde?",
+        "options": [
+            {
+                "text": "¡Y tanto!",
+                "points": {"Grosera": 4}
+            },
+            {
+                "text": "Para nada",
+                "points": {"Serena": 2}
+            }
+        ]			
+    },
+    {
+        "id": 34,
+        "text": "Cuando caminas en grupo, ¿sueles ser quien va por delante?",
+        "options": [
+            {
+                "text": "¡Por supuesto!",
+                "points": {"Grosera": 4, "Huraña": 2}
+            },
+            {
+                "text": "No",
+                "points": {"Serena": 4, "Rara": 2}
+            }
+        ]		
+    },
+    {
+        "id": 35,
+        "text": "¿Crees que tienes alma de genio?",
+        "options": [
+            {
+                "text": "¡Claro!",
+                "points": {"Alegre": 2, "Ingenua": 2, "Grosera": 4}
+            },
+            {
+                "text": "La verdad es que no...",
+                "points": {"Fuerte": 2}
+            }
+        ]			
+    },
+    {
+        "id": 36,
+        "text": "¿Te sientes a gusto dando tu opinión a una persona muy importante?",
+        "options": [
+            {
+                "text": "¡Por supuesto!",
+                "points": {"Audaz": 4, "Grosera": 4, "Osada": 2}
+            },
+            {
+                "text": "No",
+                "points": {"Miedosa": 2}
+            }
+        ]	
+    },
+    {
+        "id": 37,
+        "text": "¿Eres más de ciudad o de pueblo?",
+        "options": [
+            {
+                "text": "Soy un urbanita",
+                "points": {"Grosera": 2, "Huraña": 4}
+            },
+            {
+                "text": "Soy de pueblo",
+                "points": {"Serena": 4}
+            },
+            {
+                "text": "Me gustan ambas opciones",
+                "points": {"Rara": 4}
+            }
+        ]				
+    },
+    {
+        "id": 38,
+        "text": "Estás a punto de coger la última galleta y tu amigo la devora. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Bah, no es más que una galleta",
+                "points": {"Serena": 4}
+            },
+            {
+                "text": "¡Desato mi furia!",
+                "points": {"Alegre": 4, "Plácida": 4}
+            },
+            {
+                "text": "Lloro por la galleta perdida",
+                "points": {"Huraña": 4}
+            }
+        ]			
+    },
+    {
+        "id": 39,
+        "text": "Llevas una eternidad colocando piezas de dominó. Una más y estará listo... Y de pronto... ¡Las derribas! ¿Qué haces?",
+        "options": [
+            {
+                "text": "Desisto. No puedo volver a empezar",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "¡Me enfado muchisímo!",
+                "points": {"Dócil": 4}
+            },
+            {
+                "text": "Vuelvo a empezar...",
+                "points": {"Serena": 4, "Osada": 4}
+            }
+        ]		
+    },
+    {
+        "id": 40,
+        "text": "¿Te molestan el ruido y el jaleo a tu alrededor?",
+        "options": [
+            {
+                "text": "Mucho",
+                "points": {"Plácida": 2, "Osada": 4}
+            },
+            {
+                "text": "Para nada",
+                "points": {"Activa": 2, "Huraña": 4}
+            }
+        ]			
+    },
+    {
+        "id": 41,
+        "text": "Te acabas de pegar un buen atracón y traen el postre. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Me lo como. Total, ¿qué más da?",
+                "points": {"Activa": 4, "Alocada": 2}
+            },
+            {
+                "text": "Digo que no. ¡Engorda demasiado!",
+                "points": {"Fuerte": 2}
+            },
+            {
+                "text": "Mmm... ¡Adoro los postres! ♪",
+                "points": {"Alegre": 4, "Plácida": 2, "Osada": 4}
+            }
+        ]		
+		
+    },
+    {
+        "id": 42,
+        "text": "¡Mañana tienes un examen muy importante! ¿Qué haces?",
+        "options": [
+            {
+                "text": "Estudio toda la noche",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "¡Ya improvisaré algo!",
+                "points": {"Plácida": 4}
+            },
+            {
+                "text": "¿Un examen? Creo que tengo fiebre",
+                "points": {"Ingenua": 4}
+            }
+        ]				
+    },
+    {
+        "id": 43,
+        "text": "Estás comiendo en un restaurante y de repente ves que ya no queda nadie. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¿Nadie? ¡Busco a un empleado!",
+                "points": {"Dócil": 4, "Huraña": 4}
+            },
+            {
+                "text": "Sigo comiendo",
+                "points": {"Alegre": 4, "Plácida": 4}
+            },
+            {
+                "text": "Birlo comida de las otras mesas",
+                "points": {"Osada": 4}
+            }
+        ]	
+    },
+    {
+        "id": 44,
+        "text": "¿Sueles cantar o tararear a menudo?",
+        "options": [
+            {
+                "text": "Todo el rato",
+                "points": {"Alegre": 2, "Plácida": 4}
+            },
+            {
+                "text": "Nunca",
+                "points": {"Mansa": 2}
+            }
+        ]		
+    },
+    {
+        "id": 45,
+        "text": "¡Suena el teléfono! ¿Qué haces?",
+        "options": [
+            {
+                "text": "Respondo de inmediato",
+                "points": {"Activa": 4, "Huraña": 4}
+            },
+            {
+                "text": "Espero un poco antes de responder",
+                "points": {"Mansa": 2}
+            },
+            {
+                "text": "Lo dejo sonar",
+                "points": {"Miedosa": 2}
+            }
+        ]				
+    },
+    {
+        "id": 46,
+        "text": "Tus amigos parecen tener una conversación entretenida pero no alcanzas a oírla. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Me acerco y charlo con ellos",
+                "points": {"Ingenua": 4}
+            },
+            {
+                "text": "Nada... no me interesa",
+                "points": {"Huraña": 4}
+            },
+            {
+                "text": "Escucho a hurtadillas desde lejos",
+                "points": {"Miedosa": 2}
+            }
+        ]				
+    },
+    {
+        "id":47 ,
+        "text": "¿Te gusta ser el centro de atención?",
+        "options": [
+            {
+                "text": "¡Claro!",
+                "points": {"Grosera": 4, "Huraña": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Plácida": 2}
+            }
+        ]	
+    },
+    {
+        "id": 48,
+        "text": "Te dicen que esperes en una gran sala vacía. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Espero sin moverme",
+                "points": {"Dócil": 4}
+            },
+            {
+                "text": "Busco algo que hacer",
+                "points": {"Ingenua": 4}
+            },
+            {
+                "text": "Me voy afuera",
+                "points": {"Alocada": 4}
+            },
+            {
+                "text": "Me acurruco en una esquina...",
+                "points": {"Huraña": 4}
+            }
+        ]					
+    },
+    {
+        "id": 49,
+        "text": "¿Tienes muchas cosas que compraste pensando que eran guays, pero que ya no usas?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Activa": 2, "Rara": 4, "Alocada": 2}
+            },
+            {
+                "text": "No",
+                "points": {"Mansa": 2}
+            }
+        ]	
+    },
+    {
+        "id": 50,
+        "text": "¿Has tenido alguna afición durante mucho tiempo?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Activa": 2, "Rara": 4}
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "text": "¿Sueles cancelar planes con otras personas a última hora?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Rara": 4, "Alocada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Serena": 2}
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "text": "¿Te gusta ceñirte a los planes?",
+        "options": [
+            {
+                "text": "¡Por supuesto!",
+                "points": {"Fuerte": 4}
+            },
+            {
+                "text": "No se me da bien hacer planes",
+                "points": {"Rara": 4, "Alocada": 2}
+            },
+            {
+                "text": "¿Planes? ¿Quién necesita planes?",
+                "points": {"Plácida": 4}
+            }
+        ]			
+    },
+    {
+        "id": 53,
+        "text": "¿Crees que a veces es necesario mentir?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Mansa": 4, "Osada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Audaz": 4}
+            },
+            {
+                "text": "No sé",
+                "points": {"Dócil": 4}
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "text": "¡Has atisbado un barco mar adentro! ¿Qué crees que lleva el barco?",
+        "options": [
+            {
+                "text": "¡El botín de un pirata!",
+                "points": {"Alegre": 2, "Ingenua": 4}
+            },
+            {
+                "text": "¡Fantasmas!",
+                "points": {"Miedosa": 2}
+            },
+            {
+                "text": "¡Nada! ¡Es un espejismo!",
+                "points": {"Mansa": 4}
+            }
+        ]			
+    },
+    {
+        "id": 55,
+        "text": "¿Crees que todo vale con tal de ganar?",
+        "options": [
+            {
+                "text": "¡Por supuesto!",
+                "points": {"Grosera": 4, "Mansa": 4}
+            },
+            {
+                "text": "En absoluto",
+                "points": {"Audaz": 4}
+            }
+        ]			
+    },
+    {
+        "id": 56,
+        "text": "¡Un amigo está llorando frente a ti! ¿Qué ha pasado?",
+        "options": [
+            {
+                "text": "Alguien se ha metido con mi amigo",
+                "points": {"Activa": 4}
+            },
+            {
+                "text": "Sin duda se ha caído",
+                "points": {"Mansa": 4}
+            },
+            {
+                "text": "¿Será culpa mía?",
+                "points": {"Miedosa": 2}
+            }
+        ]				
+    },
+    {
+        "id": 57,
+        "text": "Un amigo te dice que llevas la camiseta del revés. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Uf! ¡Qué vergüenza!",
+                "points": {"Dócil": 4}
+            },
+            {
+                "text": "¡Me río en voz alta!",
+                "points": {"Alocada": 4}
+            },
+            {
+                "text": "Digo que voy a la última moda",
+                "points": {"Alegre": 4}
+            }
+        ]			
+    },
+    {
+        "id": 58,
+        "text": "Haces de tripas corazón, te vas a un cementerio de noche... ¡y ves a una mujer totalmente empapada! ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡Me marcho a todo gas!",
+                "points": {"Miedosa": 2}
+            },
+            {
+                "text": "¿Y qué? Si es de carne y hueso",
+                "points": {"Ingenua": 4, "Grosera": 2}
+            },
+            {
+                "text": "Me agacho para que no me vea",
+                "points": {"Alocada": 4}
+            }
+        ]		
+    },
+    {
+        "id": 59,
+        "text": "¿Te sueles olvidar de cerrar la puerta con llave al salir de casa?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Alocada": 4, "Osada": 2}
+            },
+            {
+                "text": "No",
+                "points": {"Mansa": 2}
+            }
+        ]	
+    },
+    {
+        "id": 60,
+        "text": "¿Alguna vez se te ha escapado accidentalmente un secreto que alguien te había confiado?",
+        "options": [
+            {
+                "text": "Sí",
+                "points": {"Huraña": 4, "Alocada": 4}
+            },
+            {
+                "text": "No",
+                "points": {"Fuerte": 2}
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "text": "Estás en clase y te entran ganas de ir al baño. ¿Qué haces?",
+        "options": [
+            {
+                "text": "Pido permiso para salir",
+                "points": {"Audaz": 4, "Osada": 4}
+            },
+            {
+                "text": "Me escaqueo",
+                "points": {"Activa": 2}
+            },
+            {
+                "text": "Espero hasta que acabe la clase",
+                "points": {"Miedosa": 2}
+            }
+        ]				
+    },
+    {
+        "id": 62,
+        "text": "Participas en una obra de teatro con amigos. ¿Qué clase de papel prefieres?",
+        "options": [
+            {
+                "text": "El papel protagonista",
+                "points": {"Osada": 4}
+            },
+            {
+                "text": "El papel secundario",
+                "points": {"Alegre": 4}
+            },
+            {
+                "text": "Un papel pequeño",
+                "points": {"Rara": 4}
+            }
+        ]		
+    },
+    {
+        "id": 63,
+        "text": "Ves un pastel caducado, pero solo por un día. ¿Qué haces?",
+        "options": [
+            {
+                "text": "¡A comer!",
+                "points": {"Audaz": 4, "Plácida": 2}
+            },
+            {
+                "text": "Me lo pienso y luego decido",
+                "points": {"Miedosa": 2}
+            },
+            {
+                "text": "Que lo pruebe alguien primero",
+                "points": {"Osada": 4}
+            }
+        ]		
+    },
+    {
+        "id": 64,
+        "text": "Asistes a una cena de etiqueta en casa de un amigo. ¿Cómo te comportas?",
+        "options": [
+            {
+                "text": "¡A por la comida!",
+                "points": {"Agitada": 4, "Ingenua": 4}
+            },
+            {
+                "text": "Disfruto de la cena con moderación",
+                "points": {"Fuerte": 2}
+            },
+            {
+                "text": "¡Pido las sobras para casa!",
+                "points": {"Osada": 4}
+            }
+        ]				
+    },
+    {
+        "id": 65,
+        "text": "¿Eres chico o chica?",
+        "options": [
+            {
+                "text": "Chico",
+                "points": {}
+            },
+            {
+                "text": "Chica",
+                "points": {}
+            }
+        ]	
+    }
+]
+
+
+
